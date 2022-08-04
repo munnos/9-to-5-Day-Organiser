@@ -1,4 +1,4 @@
-# Work Day Scheduler 
+# 9 to 5 Day Organiser
 
 ## About
 
